@@ -1,9 +1,9 @@
-# focus-service-generator
+# focus-service-generator-updated
  Node package to generate code from a swagger interface 
 
 ## How to use 
 
- - Install as devDependencies `npm i --save-dev focus-service-generator`
+ - Install as devDependencies `npm i --save-dev focus-service-generator-updated`
  - Add a script line in your package json : `"service-generator": "better-npm-run service-generator"`
  - add a betterScript element in your package json 
  ```json
