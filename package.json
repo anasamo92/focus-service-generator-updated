@@ -1,10 +1,10 @@
 {
     "name": "focus-service-generator-updated",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "File generation based on Swagger Interface",
     "main": "./index.js",
     "bin": {
-        "focus-service-generator-updated": "./index.js"
+        "focus-service-generator-updated": "index.js"
     },
     "scripts": {
         "prepare": "npm run build",
